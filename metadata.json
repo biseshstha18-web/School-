@@ -1,0 +1,6 @@
+{
+  "name": "Shree Aadarsha School Portal",
+  "description": "School Management and Information Portal for Shree Aadarsha Rastriye Madhyamik Bidhyalaye, featuring panels for Students, Teachers, Parents, Principal, and Admin.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
